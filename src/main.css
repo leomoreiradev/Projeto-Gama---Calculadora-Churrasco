@@ -1,0 +1,150 @@
+
+header{
+  background-color: #fff; 
+}
+header h5{
+  color:goldenrod;
+  background-color: rgb(63, 40, 5);
+  text-align: center; 
+  padding: 20px;
+
+}
+
+header h2{
+  color:rgb(156, 117, 33);
+  text-align: center;
+  padding: 20px;
+  font-size: 3em;
+  font-family: 'Lobster', cursive;
+}
+
+.wrapper-one{
+   width: 100%;
+   background-color:rgb(146, 65, 31);
+   border-radius: 4px;
+   padding: 20px;
+   display: flex; 
+   flex-direction: column;
+}
+
+.acc{
+  margin-left:60px;
+}
+
+.entrada{
+   text-align: center;
+}
+
+.wrapper-one label{
+   color: gold;
+   padding: 30px;
+   font-size:2em;
+   margin-left: -60px;
+   font-family: monospace;
+   margin-bottom: -30px;
+}
+
+.wrapper-one input{
+  border-radius: 4px;
+  border: none;
+  background-color: #1b1002;
+  outline-color: goldenrod;
+  color: gold;
+  padding: 5px;
+
+}
+
+@media (max-width:1024px) {
+  .wrapper-one input{
+    border-radius: 4px;
+    border: none;
+    background-color: #1b1002;
+    outline-color: goldenrod;
+    color: gold;
+    padding: 5px;
+    width: 100%;
+  
+  }
+  .acc  {
+    margin:0 auto;
+    text-align: center; 
+  
+   
+  }
+  .acc input {
+    padding: 0;
+    margin:0;
+    vertical-align: center;
+    position: relative;
+    top: 1px;
+    overflow: hidden;
+  }
+}
+
+.acc label {
+  display: inline-block;
+  margin-left:-50px;
+
+}
+.acc input {
+  padding: 0;
+  margin:0;
+  vertical-align: center;
+  position: relative;
+  top: 1px;
+  overflow: hidden;
+}
+
+.wrapper-two{
+  background-color: goldenrod;
+  padding-bottom: 50px;
+  
+
+}
+
+.wrapper-two label{
+ color: rgb(14, 12, 1);
+  font-size: 1.5em;
+  font-family: monospace;
+}
+
+
+.bebida-alcoolca{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  text-align: center;
+}
+
+.bebida-alcoolca input{
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  height: 30px;
+ border-radius: 4px;
+  border: none;
+  background-color: #1b1002;
+  outline-color: goldenrod;
+  color: gold;
+  padding: 5px;
+
+}
+
+.btn-style{
+  width: 200px
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  width: 200px
+}
+
+.result{
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+  font-size: 8px
+  
+}
