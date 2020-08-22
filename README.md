@@ -18,7 +18,7 @@ Este projeto é destinado aos alunes da stack Hacker do Gama Experience. O proje
 
 Para conseguir utilizar o template basta fazer o download do projeto ou clonar este repositório utilizando o Git em seu terminal.
 
-## Observações 📌
+## Observações 📌.
 
 No template temos a lógica do calculo criada e os campos definidos, mas sinta-se a vontade para fazer alterações :D
 Para agilizar o desenvolvimento, criamos também um wireframe para você seguir e não se preocupar com design. Os dados de cores, tamanhos e fontes constam [nesse arquivo](https://xd.adobe.com/view/dbdc850b-ce84-4227-67b7-ac0974fda9a6-aded/).
