@@ -14,7 +14,7 @@
 
 Este projeto é destinado aos alunes da stack Hacker do Gama Experience. O projeto visa a criação de uma calculadora de churrasco que utilizará o número de pessoas para o resultado da quantidade necessária de carne, acompanhamentos e cerveja 🍺.
 
-## Começando 🏁
+## Começando 🏁.
 
 Para conseguir utilizar o template basta fazer o download do projeto ou clonar este repositório utilizando o Git em seu terminal.
 
